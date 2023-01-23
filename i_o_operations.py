@@ -1,0 +1,10 @@
+print("hello world")
+print("10","20","30" ,sep=",",end=" ")
+print("good evening friends")
+print(1,2,3,4,5)
+print(1,2,3,4,5 ,sep="#")
+print(1,2,3,4,5,sep="@",end="!")
+print("Good bye")
+#let's see input function
+msg=input("please enter any value:")
+print("value of ms variable=",msg)
